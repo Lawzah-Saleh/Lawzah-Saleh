@@ -59,18 +59,22 @@
 </div>
 
 ---
-
 <h2 align="center">🐍 GitHub Contributions</h2>
 
 <p align="center">
   <picture>
+    <!-- Dark mode -->
     <source media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/Lawzah-Saleh/Lawzah-Saleh/output/github-contribution-grid-snake-dark.svg" />
+    <!-- Light mode -->
     <source media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/Lawzah-Saleh/Lawzah-Saleh/output/github-contribution-grid-snake.svg" />
+    <!-- Fallback -->
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Lawzah-Saleh/Lawzah-Saleh/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
-<p align="center">My contributions… but eaten by a snake! 🐍</p>
+🟩⬜ My GitHub contributions… but *eaten by a snake*! 🐍
+
+
 
 ---
 <h2 align="center">📊 GitHub Stats</h2>
